@@ -1,0 +1,6 @@
+/Users/adam/Desktop/CodeTranslator/CodeTranslator/bin/Debug/CodeTranslator.exe
+/Users/adam/Desktop/CodeTranslator/CodeTranslator/bin/Debug/CodeTranslator.pdb
+/Users/adam/Desktop/CodeTranslator/CodeTranslator/obj/Debug/CodeTranslator.csprojAssemblyReference.cache
+/Users/adam/Desktop/CodeTranslator/CodeTranslator/obj/Debug/CodeTranslator.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/CodeTranslator/CodeTranslator/obj/Debug/CodeTranslator.exe
+/Users/adam/Desktop/CodeTranslator/CodeTranslator/obj/Debug/CodeTranslator.pdb
